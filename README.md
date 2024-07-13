@@ -28,7 +28,7 @@ streamline the management of student information within educational institutions
 
 ### Technologies Used
 
-- **Frontend**             : HTML, CSS
+- **Frontend**             : HTML, CSS, PHP
 - **Backend**              : WAMP Server (Windows, Apache, MySQL, PHP)
 - **Database Management**  : phpMyAdmin
 
