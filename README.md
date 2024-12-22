@@ -1,5 +1,9 @@
 # Student-Management-System
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b504eef8-a655-45ee-95a7-d4f1a0244b49" alt="Image">
+</p>
+
 ### Project Description: Student Management System Website
 
 The Student Management System (SMS) website is a comprehensive online platform designed to 
